@@ -15,4 +15,6 @@ Route::get('/test', function () {
 route::get('/ahmed',function()
 {
     return view ('ahmed galal');
-})
+});
+-----------------------------------------------------------------
+
