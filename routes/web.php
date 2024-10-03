@@ -12,4 +12,7 @@ Route::get('/test', function () {
 
 });
 
-route::get('/ahmed')
+route::get('/ahmed',function()
+{
+    return view ('ahmed galal');
+})
